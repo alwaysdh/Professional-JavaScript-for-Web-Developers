@@ -1,2 +1,2 @@
 # Professional-JavaScript-for-Web-Developers
-记录个人学习JavaScript高级程序设计所思所想
+学习《JavaScript高级程序设计》第二遍，记录过程中的学习心得。
